@@ -35,10 +35,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Team
-
-PUNEETH S, MANU G N, RAGHUNANDAN, PANCHAM GOWDA V R, PRABHAKAR
-
 ## Note
 
 Free OSRM has no live traffic data, so congestion is modelled with a mathematical rush-hour model.
